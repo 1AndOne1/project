@@ -302,7 +302,7 @@
      background-size: cover;
      width: 100%;
      transition: var(--tran-05);
-     background-image: url('./background.svg');
+     background-color: rgb(15, 15, 15);
      background-repeat: no-repeat;
  }
  .home .aboba {
